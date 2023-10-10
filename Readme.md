@@ -2,7 +2,7 @@
 
 Congrats 🎉. You've successfully decoded the secret code you found out after completing the Terminal Wizard. You've come a long way.  
 To mark the end of your hunt for the Championship Cup and to further give the information about Voldemort to Dumbledore, you have to do one last task.  
-Clone this repository to your system and run the python script in the terminal. You will see a message printed on your terminal screen.  
+Clone this repository to your system and checkout the .txt file.  
 
 Take a screenshot of this message and keep it in the "codes" directory that you made earlier.  
 
